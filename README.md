@@ -1,4 +1,4 @@
-Genetic-algorithm_Knapsack-problem
+Knapsack problem: Genetic algorithm solution on Python
 ==================================
 
-Knapsack problem: solution on Python with Genetic algorithm
+requires Python 2.7
